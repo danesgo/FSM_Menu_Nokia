@@ -1,0 +1,1 @@
+"./utils/uartstdio.obj" "./startup_ccs.obj" "./menu_fsm.obj" "./Nokia5110.obj" "../menu_fsm_ccs.cmd" -l"libc.a" -l"C:/StellarisWare/boards/ek-lm4f120xl/hello/ccs/../../../../driverlib/ccs-cm4f/Debug/driverlib-cm4f.lib" 
